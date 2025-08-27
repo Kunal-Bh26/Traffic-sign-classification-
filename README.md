@@ -23,11 +23,6 @@
 notebooks/
 ├─ CustomCNN_model.ipynb
 └─ EfficientNet_model.ipynb
-results/
-├─ checkpoints/               # .h5 saved weights
-├─ figures/                   # training curves, confusion matrices (optional)
-└─ metrics/                   # JSON/CSV reports (optional)
-data/                         # local dataset root (ignored by git)
 README.md
 requirements.txt
 LICENSE
